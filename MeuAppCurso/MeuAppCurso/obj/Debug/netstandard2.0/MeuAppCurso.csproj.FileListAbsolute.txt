@@ -11,3 +11,16 @@ C:\Users\kimsc\source\repos\MeuAppCurso\MeuAppCurso\MeuAppCurso\obj\Debug\netsta
 C:\Users\kimsc\source\repos\MeuAppCurso\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.dll
 C:\Users\kimsc\source\repos\MeuAppCurso\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\ref\MeuAppCurso.dll
 C:\Users\kimsc\source\repos\MeuAppCurso\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.pdb
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\bin\Debug\netstandard2.0\MeuAppCurso.deps.json
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\bin\Debug\netstandard2.0\MeuAppCurso.dll
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\bin\Debug\netstandard2.0\ref\MeuAppCurso.dll
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\bin\Debug\netstandard2.0\MeuAppCurso.pdb
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.csprojAssemblyReference.cache
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.AssemblyInfoInputs.cache
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.AssemblyInfo.cs
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.dll
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\ref\MeuAppCurso.dll
+C:\Users\kimsc\source\repos\BuscaCep\MeuAppCurso\MeuAppCurso\obj\Debug\netstandard2.0\MeuAppCurso.pdb
